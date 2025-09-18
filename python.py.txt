@@ -1,0 +1,7 @@
+
+unique_fruits = {'orange', 'apple', 'pear', 'banana', 'kiwi', 'apple', 'banana'}
+unique_fruits.add('grape')
+unique_fruits.discard('pear')
+
+print("Уникальные фрукты:", unique_fruits)
+print("Есть ли mango?:", 'mango' in unique_fruits)))
